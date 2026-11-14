@@ -2,7 +2,7 @@
 package com.mycompany.main;
 
 public class Cliente {
-    
+
     private int idCliente;
     private String nome;
     private String email;
@@ -14,15 +14,15 @@ public class Cliente {
         this.email = email.toUpperCase();
         this.cidade = cidade.toUpperCase();
     }
-    
-    public int getCliente() {
+
+    public int getIdCliente() {
         return idCliente;
     }
 
     public void setIdCliente(int idCliente) {
         this.idCliente = idCliente;
     }
-    
+
     public String getNome() {
         return nome;
     }
@@ -47,4 +47,3 @@ public class Cliente {
         this.cidade = cidade.toUpperCase();
     }
 }
-

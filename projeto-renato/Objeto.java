@@ -1,7 +1,6 @@
 
 package com.mycompany.main;
 
-
 public class Objeto {
     private int idObjeto;
     private String nome;
