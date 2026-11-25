@@ -1,6 +1,4 @@
 
-package com.mycompany.main;
-
 public class Cliente {
 
     private int idCliente;

@@ -1,5 +1,4 @@
 
-package com.mycompany.main;
 
 public class Manutencao {
     private int idManutencao;
